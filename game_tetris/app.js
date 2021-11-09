@@ -25,7 +25,7 @@ let playfield = [                          //все соответсвия, ка
 
 ];
 
- var gameSpeed = 100;
+ let gameSpeed = 100;
 
 function draw() {   //выносим весь код в отдельную функцию, она будет постоянно обновялть элемент 
   let mainInnerHTML = "";
